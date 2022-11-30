@@ -1,0 +1,7 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "izcoatl.estanol.bdev <izcoatl.estanol@bairesdev.com>"
+}
